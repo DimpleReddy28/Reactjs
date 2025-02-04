@@ -30,4 +30,4 @@ to install react app;-
 
 -npm install create-react-app --globally
 -npm create-app-app myapp
--vite react
+-vite reactgit 
